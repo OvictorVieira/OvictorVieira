@@ -1,6 +1,5 @@
-- 👨🏻‍💻 Sênior Software Engineer working as Backend Engineer at [Delivery Center](https://www.linkedin.com/company/delivery-center/mycompany/).
-- 🌱 Learning more about Nodejs, Elixir, Golang, Microservices, PubSub, K8s e Google Cloud Plataform.
-- 💬 Ask me about Docker, Software Architecture.
+- 👨🏻‍💻 Sênior Software Engineer working as Backend Engineer at [Ifood](https://www.ifood.com.br/).
+- 🌱 Learning more about Kotlin, Java, Golang, Nodejs, Elixir, Ruby, Microservices, PubSub, K8s and AWS.
 - 🇧🇷 I'm from Marília, São Paulo, Brazil.
 
 ##### Contact me 🤙
