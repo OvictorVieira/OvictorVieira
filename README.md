@@ -1,4 +1,4 @@
-- 👨🏻‍💻 Sênior Software Engineer working as Backend Engineer at [Ifood](https://www.ifood.com.br/).
+- 👨🏻‍💻 Principal Software Engineer.
 - 🌱 Learning more about Kotlin, Java, Golang, Nodejs, Elixir, Ruby, Microservices, PubSub, K8s and AWS.
 - 🇧🇷 I'm from Marília, São Paulo, Brazil.
 
