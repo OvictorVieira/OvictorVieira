@@ -1,6 +1,8 @@
-- 👨🏻‍💻 Principal Software Engineer.
-- 🌱 Learning more about Kotlin, Java, Golang, Nodejs, Elixir, Ruby, Microservices, PubSub, K8s and AWS.
-- 🇧🇷 I'm from Marília, São Paulo, Brazil.
+# Welcome
+
+- 👨🏻‍💻 Senior Software Engineer
+- 🌱 Learning more about Golang, Elixir, Ruby, Nodejs, Microservices, Kafka, K8s and AWS
+- 🇧🇷 I'm from Marília, São Paulo, Brazil
 
 ##### Contact me 🤙
 
