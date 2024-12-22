@@ -2,7 +2,7 @@
 
 - 👨🏻‍💻 Senior Software Engineer
 - 🌱 Learning more about Golang, Elixir, Ruby, Nodejs, Microservices, Kafka, K8s and AWS
-- 🇧🇷 I'm from Marília, São Paulo, Brazil
+- 🇧🇷 I'm from Brazil
 
 ##### Contact me 🤙
 
