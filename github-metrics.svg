@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1567" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1883" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.symbol{color:#b44418}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.chart-bars.horizontal .entry .name,.track .name{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.deleted{color:#da3633}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.constant,.token.symbol{color:#b44418}.token.string{color:#2777aa}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -32,10 +32,10 @@
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1449 Commits
+                            1453 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            29 Pull requests opened
+                            30 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -184,13 +184,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    628 MB used
+                                    629 MB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    150k added, 86.1k removed
+                                    86.3k added, 57.9k removed
                                 </div>
                             </section>
                             <section>
@@ -238,14 +238,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="237.05929297929853" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="237.05929297929853" y="0" width="67.45461711548359" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="304.5139100947821" y="0" width="58.34040458178713" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="362.85431467656923" y="0" width="29.460262955969064" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="392.3145776325383" y="0" width="23.551089599605046" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="415.8656672321434" y="0" width="17.192453384125812" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="433.0581206162692" y="0" width="15.529480727237022" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="448.5876013435062" y="0" width="11.412398656493789" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="236.84408324445783" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="236.84408324445783" y="0" width="67.39337973440158" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="304.2374629788594" y="0" width="58.705043545903735" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="362.94250652476313" y="0" width="29.433518020980816" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="392.376024545744" y="0" width="23.529709194372913" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="415.9057337401169" y="0" width="17.176845544890494" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="433.08257928500734" y="0" width="15.515382585850027" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="448.59796187085743" y="0" width="11.402038129142621" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -322,7 +322,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 13 commits)</small>
+                    <small class="h-details">(computed from last 14 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -376,7 +376,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~3.44
+                            Average per day at ~3.47
                         </div>
                     </section>
                 </div>
@@ -1291,9 +1291,9 @@
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8 1.7,2.8 z"/>
                             </g>
                             <g transform="translate(-1.7, 4.8)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.199999999999999 0,3.1999999999999997 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.1999999999999997 1.7,4.199999999999999 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.199999999999999 0,3.1999999999999997 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.1999999999999997 1.7,4.199999999999999 z"/>
                             </g>
                             <g transform="translate(-3.4, 5.2)">
                                 <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1306,9 +1306,9 @@
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8 1.7,2.8 z"/>
                             </g>
                             <g transform="translate(-6.8, 8.8)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2 0,2.2 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2 1.7,3.2 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2 0,2.2 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2 1.7,3.2 z"/>
                             </g>
                             <g transform="translate(-8.5, 11)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1342,10 +1342,10 @@
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4 0,1.4 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4 1.7,2.4 z"/>
                             </g>
-                            <g transform="translate(-6.8, 5.800000000000001)">
+                            <g transform="translate(-6.8, 4.8)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,6.199999999999999 0,5.199999999999999 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,5.199999999999999 1.7,6.199999999999999 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,7.2 0,6.2 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,6.2 1.7,7.2 z"/>
                             </g>
                         </g>
                     </g>
@@ -1360,6 +1360,290 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 24 commits in
+                                        <span class="repo">OvictorVieira/corex</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feature/signal-to-deal-worker</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5ff6243</div>
+                                        <div class="message">feat: implement deal synchronization with operations sum calculation
+
+- Add deal operations sum calculation to determine deal completion
+- Fix amount calculation for long/short positions in deal operations
+- Implement proper deal closure when operations sum equals zero
+- Add observation field to deal operations for manual order tracking
+- Add fail_message field to deals table for sync error tracking
+- Update deal status management (OPEN, COMPLETE, REJECTED)
+- Improve filled_percentage calculation based on operations sum
+- Add comprehensive logging for deal synchronization process
+- Fix JSON unmarshalling for orderId (int64 instead of string)
+- Replace hardcoded status strings with constants
+- Add tolerance for floating-point precision in completion check</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f0c5729</div>
+                                        <div class="message">refactor: improve deals and deal operations schema and sync logic
+
+- Remove 'type' field from deal_operations table (redundant for fills)
+- Add unique constraint to prevent duplicate deal operations
+- Merge multiple migrations into single comprehensive migration
+- Fix sync logic to work with deals instead of deal operations
+- Add GetDealsByAccountAndStatus and GetDealByID methods
+- Improve symbol formatting for Binance API compatibility
+- Handle duplicate operation errors gracefully (warning instead of error)
+- Remove end_time references and use closed_at for deal closure
+- Add proper error handling for missing methods
+- Clean up repository and service interfaces
+- Fix bot performance queries to use correct timestamp fields
+
+This refactor improves data integrity, eliminates redundant operations,
+and provides a more robust sync mechanism for deal fills.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3f0f8b8</div>
+                                        <div class="message">feat: implement event-driven order status synchronization and deals management
+
+- Add deals publisher and subscriber services for queue-based processing
+- Implement OrderFillService for automatic take profit and stop loss creation
+- Add WebSocket event handling for ORDER_TRADE_UPDATE events
+- Create database migrations for deal operations and remove unused columns
+- Update exchange manager to support deals synchronization
+- Add queue configuration for deals sync tasks
+- Remove exchange handler and routes (moved to WebSocket-based approach)
+- Update deals domain entities and services for better type safety
+- Implement automatic order fill processing when orders are filled
+- Add proper error handling and logging throughout the flow
+
+This implements a complete event-driven architecture for order status
+synchronization, replacing direct API calls with queue-based processing
+for better scalability and reliability.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7e73919</div>
+                                        <div class="message">fix: resolve compilation errors and database query issues
+
+- Fix GetOperationsWithStatusByAccount method signature to use constants.DealStatus instead of string
+- Update domain interface, repository interface, and implementations for type consistency
+- Fix SQL query in GetOperationsWithStatusByAccount to properly join with bots table
+- Add missing orderFillSvc parameter to dealsSubscriberService.NewHandler call
+- Resolve PostgreSQL error: 'column d.account_id does not exist' by joining deals-&gt;bots-&gt;accounts
+
+This ensures proper type safety and correct database queries for order status synchronization.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8947d11</div>
+                                        <div class="message">fix: correct exchange order ID formatting to avoid scientific notation
+
+- Fix order ID conversion from scientific notation (5.35194825e+08) to proper string format (535194825)
+- Improve convertToString method to handle float64 integers properly
+- Add debug logging to track order ID type and conversion
+- Ensure order IDs are saved as readable string values in database
+
+This prevents order IDs from being stored in scientific notation format and ensures proper string representation for database storage and API responses.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#08a036d</div>
+                                        <div class="message">refactor: implement order fill event handling for accurate deal execution
+
+- Refactor execution flow to create deals immediately with signal data
+- Add OrderFillService to handle order filled events and update deals with real executed prices
+- Create take profit targets and stop loss orders only after order is filled
+- Add missing repository and service methods for deal/operation updates
+- Add GetPairByID method to tokens service
+- Fix linter errors and ensure clean build
+- Implement soft delete functionality for bots and related entities
+
+This change ensures that targets and stop loss are calculated using the actual executed price from the exchange, not the order response price which may be 0 for market orders.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a21b91d</div>
+                                        <div class="message">feat: implement test mode filtering for all pairs methods
+
+- Add TestModeTokens constant array with BTC/USDT, ETH/USDT, BNB/USDT, LTC/USDT, XRP/USDT
+- Update ListAccountPairs, ListPairsWithType, and ListPairsWithSearch to filter by test mode
+- Add isTestMode parameter to repository, service, and handler layers
+- Implement dynamic SQL query building with proper placeholder numbering
+- Add comprehensive logging for debugging query execution and results
+- Update handlers to get user's test mode and pass it through the call chain
+- Ensure consistent filtering across all pairs-related endpoints
+- Maintain backward compatibility for production mode behavior</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#448c2fa</div>
+                                        <div class="message">fix: update Binance order types and precision handling for futures API
+
+- Add missing order types (STOP, STOP_MARKET, TAKE_PROFIT_MARKET) for Binance Futures
+- Update domain constants to include futures-specific order types
+- Fix futures stop loss orders to use STOP instead of STOP_LOSS
+- Improve precision calculation to respect Binance's 8 decimal limit
+- Remove hardcoded precision formatting in execution service
+- Let exchange validation handle proper precision formatting
+- Fix precision overflow errors in take profit and stop loss orders</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fd1d150</div>
+                                        <div class="message">feat: implement signal-to-deal worker integration
+
+- Add signal processing logic in bot service
+- Integrate TradingView webhook handling
+- Add deal execution based on signal conditions
+- Implement proper error handling and logging
+- Add transaction support for signal processing</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#faf55dc</div>
+                                        <div class="message">fix(bot): populate all bot fields in GetByID
+
+This commit fixes a bug where the  method was not correctly populating the , , , and  fields in the returned bot entity.
+
+- Added logic to  to assign the scanned database values to the .
+- Added  to the  struct to allow it to be updated.
+- Added logic to the  handler to process the .</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ca25b9d</div>
+                                        <div class="message">fix: resolve exchange pair lookup and type conversion issues
+
+- Fix exchange pair lookup to use exchange ID instead of exchange name
+- Add proper type conversion from string to exchanges.AccountType in accounts repository
+- Fix bot creation/update to properly handle leverage settings with correct exchange pair references
+- Add migrations for leverage settings unique constraints and tradingview signals cascade
+- Remove target price from deals entity and add proper foreign key handling</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cd2e879</div>
+                                        <div class="message">fix: improve TradingView signal handling and fix ATR value mapping
+
+- Remove panic recovery from TradingView handler (not needed)
+- Handle nil signals gracefully when deleted from database
+- Return success instead of error for deleted signals to prevent retries
+- Change log level from error to info for deleted signal scenarios
+- Fix ATRValue struct JSON mapping from 'value' to 'atr' field
+- Ensures correct unmarshaling of ATR values from Delphos API response</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c4cea08</div>
+                                        <div class="message">feat: integrate ExecutionService with TradingView signal handler
+
+- Add ExecutionService dependency to tradingview subscriber handler
+- Update handler constructor to accept ExecutionService parameter
+- Replace TODO with actual signal processing using ExecuteDealWithTargets
+- Add proper error handling for execution failures
+- Fix variable shadowing issue in error handling
+- Update main.go to pass ExecutionService to handler constructor
+- Move handler initialization after ExecutionService creation to fix undefined variable error</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c95acb4</div>
+                                        <div class="message">feat: add retry service to exchange operations and update queue config
+
+- Add retry service import and initialization in main.go
+- Pass retry service to Binance exchange service constructor
+- Update webhook service to use 'tradingview_signals' queue config instead of 'tradingview'
+- Improves reliability of exchange operations with retry mechanism</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6b123a5</div>
+                                        <div class="message">fix: update tradingview repository to use correct table name
+
+- Changed all SQL queries from 'tradingview' to 'tradingview_signals'
+- Fixes 'relation tradingview does not exist' error
+- Aligns repository with migration schema (013_add_tradingview_signals.up.sql)
+- Updated INSERT, SELECT, and UPDATE queries in all methods</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#62b0dfd</div>
+                                        <div class="message">feat: implement centralized retry service and deal creation
+
+- Add centralized retry service in pkg/retry with configurable retry logic
+- Implement exponential backoff with context cancellation support
+- Update all exchange order creation methods to use retry service:
+  - CreateOrder (limit/market orders)
+  - CreateTakeProfitOrder
+  - CreateStopLossOrder
+  - SetLeverage
+- Add deal and deal operations creation in execution service
+- Create migration for exchange_order_id field in deals table
+- Add deal status and operation type constants
+- Remove manual retry logic from execution service
+- Fix nil pointer dereference issues
+- Improve error handling and logging throughout
+
+This provides a robust, reusable retry mechanism for all exchange operations
+with consistent error handling and observability.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d184209</div>
+                                        <div class="message">feat: implement step 5 - quantity calculation
+
+- Add CalculateQuantity method to risk management service
+- Calculate quantity based on account balance and allocation percentage
+- Formula: quantity = (account_balance * allocation_percentage) / order_price
+- Add input validation for balance, allocation percentage, and order price
+- Implement precision handling with 6 decimal places rounding
+- Add minimum quantity validation (0.000001)
+- Update take profit order quantity calculation using target percentages
+- Add comprehensive logging for quantity calculations
+- Support base asset quantity for Binance API compatibility
+
+This completes step 5 of the execution service workflow, enabling
+precise quantity calculation for trading orders based on risk management.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6515363</div>
+                                        <div class="message">feat: implement step 4 - leverage setting for futures accounts
+
+- Add leverage constants (MinimumLeverageValue, MaximumLeverageValue) to accounts constants
+- Replace hardcoded leverage validation with centralized constants
+- Add SetLeverage method to exchange service interface
+- Implement SetLeverage in Binance exchange service using Futures API
+- Update execution service to use exchange service for leverage setting
+- Add encrypt service dependency for API key decryption
+- Integrate real leverage setting on Binance Futures via API
+- Add comprehensive error handling and logging for leverage operations
+- Support test mode for leverage setting
+
+This completes step 4 of the execution service workflow, enabling
+automatic leverage configuration for futures trading accounts.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f45b7e5</div>
+                                        <div class="message">feat: implement step 3 - account info retrieval and balance validation
+
+- Add account info retrieval using bot's configured account ID
+- Implement balance validation with minimum 10 USDT requirement
+- Add MinimumBalanceUSDT constant to accounts constants
+- Replace local variable with centralized constant for consistency
+- Add comprehensive error handling and logging
+- Validate account existence and configuration
+- Support test mode for account retrieval
+
+This completes step 3 of the execution service workflow, ensuring
+trading bots have sufficient balance before executing trades.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f24c0b7</div>
+                                        <div class="message">refactor: improve balance change tracking and API layer separation
+
+- Remove percentage change calculations from API layer
+- Use Binance WebSocket balance change data when available
+- Add constants for balance change types
+- Simplify WebSocket handlers to use repository logic
+- Improve separation of concerns between API and repository layers
+- Clean up redundant balance change logic in handlers</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1431,26 +1715,6 @@
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
                                         <div class="sha">#339d744</div>
-                                        <div class="message">feat: enhance token fetcher with timeframe option and help command - Add timeframe-specific npm script - Add comprehensive help command with usage instructions - Add input validation for timeframe parameter - Improve TypeScript type safety - Add examples and documentation</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">OvictorVieira/delphos</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#447dd12</div>
                                         <div class="message">feat: enhance token fetcher with timeframe option and help command - Add timeframe-specific npm script - Add comprehensive help command with usage instructions - Add input validation for timeframe parameter - Improve TypeScript type safety - Add examples and documentation</div>
                                     </div>
                                 </div>
@@ -1641,7 +1905,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jun 2025, 22:03:43 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Jun 2025, 00:15:09 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
