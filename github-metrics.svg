@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1969" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1787" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    82k added, 54.9k removed
+                                    1.28m added, 135k removed
                                 </div>
                             </section>
                             <section>
@@ -322,7 +322,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 24 commits)</small>
+                    <small class="h-details">(computed from last 25 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -1401,6 +1401,144 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 9 commits in
+                                        <span class="repo">OvictorVieira/backbot</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feat/ui-development</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0ad3196</div>
+                                        <div class="message">fix: fix pnl calculation and other bugs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9cf6901</div>
+                                        <div class="message">feat: implementar criação automática de ordens de take profit parcial no monitor do TrailingStop
+
+- Corrigir retornos inconsistentes da função createTakeProfitForPosition
+- Implementar criação automática de TP parcial quando não existe ordem
+- Adicionar cálculo inteligente via ATR ou fallback por porcentagem
+- Melhorar logs e tratamento de erros na criação de ordens
+- Sistema agora cria automaticamente TPs parciais para posições em INITIAL_RISK
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bf8be83</div>
+                                        <div class="message">fix: corrigir lógica de sync que marcava ordens como CANCELLED incorretamente e restaurar status da ordem XRP_USDC_PERP do bot 2 🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#713a712</div>
+                                        <div class="message">fix: corrigir sistema de sync automático para evitar marcação incorreta de posições
+
+- Desativar calculatePnLForFilledOrders que marcava ordens FILLED como CLOSED
+- Proteger ordens FILLED no syncOrdersWithExchange para manter posições abertas
+- Desativar updateOrderOnPositionClosed no PositionTrackingService
+- Implementar rate limiting (5s delay) para TOO_MANY_REQUESTS
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0d89d62</div>
+                                        <div class="message">fix: corrigir sistema de sincronização e cálculo de P&amp;L
+
+CORREÇÕES IMPLEMENTADAS:
+1. **Autenticação corrigida**: Order.getOpenOrder agora recebe apiKey/apiSecret
+2. **Import dinâmico corrigido**: History.getFillHistory usando default export
+3. **Rate limiting melhorado**: Delay aumentado para 500ms e limite de 10 ordens por ciclo
+4. **Parâmetro sortDirection corrigido**: Removido valor inválido 'desc'
+5. **Cálculo de P&amp;L corrigido**: Invertido para ordens BUY que estavam sendo contabilizadas incorretamente
+
+RESULTADO:
+- ✅ Sistema de sincronização funciona corretamente a cada 30s
+- ✅ Ordens FILLED/CANCELLED sendo atualizadas no banco local
+- ✅ P&amp;L calculado corretamente (wins não aparecem mais como losses)
+- ✅ Estatísticas precisas exibidas no dashboard
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#82567a2</div>
+                                        <div class="message">fix: resolver problemas de sincronização de ordens e contabilização
+
+PROBLEMAS RESOLVIDOS:
+
+1. **Fallback de ordem LIMIT para MARKET**:
+   - Adicionar atualização de status no banco após cancelamento
+   - Ordem LIMIT cancelada agora é marcada como CANCELLED no banco
+   - Implementar método updateOrderStatus no OrdersService
+
+2. **Sincronização de ordens com corretora**:
+   - Implementar syncOrdersWithExchange para consultar status real na corretora
+   - Detectar ordens FILLED/CANCELLED que não foram atualizadas localmente
+   - Verificar histórico de fills para ordens não encontradas na corretora
+   - Integrar sincronização no PositionSyncService (executa a cada 30s)
+
+3. **Contabilização de trades fechados**:
+   - Corrigir query getBotOrderStats para incluir ordens FILLED nas estatísticas
+   - Implementar calculatePnLForFilledOrders para calcular P&amp;L de ordens executadas
+   - Marcar ordens FILLED como CLOSED após cálculo de P&amp;L
+   - Resolver problema de 'Total Trades: X' sem ganhos/perdas contabilizados
+
+MELHORIAS:
+- Sistema automático de sincronização a cada 30 segundos
+- Cálculo automático de P&amp;L para ordens executadas
+- Logs otimizados com Logger.debug/info/warn/error
+- Rate limiting para evitar sobrecarga da API
+- Tratamento robusto de erros em todas as operações
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#48bb6cf</div>
+                                        <div class="message">feat: otimizar logs TP_CHECK no OrderController
+
+- Substituir console.log por Logger.debug() nas verificações de take profit
+- Substituir console.error por Logger.error()
+- Manter logs de TP_CHECK apenas no modo debug para reduzir noise
+- Aplicar padrões consistentes de logging no módulo
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e3d886d</div>
+                                        <div class="message">fix: corrigir erro Order.getOpenOrders is not a function
+
+- Corrigir uso de import dinâmico da classe Order
+- Usar OrderModule.default.getOpenOrders() ao invés de Order.getOpenOrders()
+- Corrigir todas as ocorrências de import dinâmico incorreto no OrderController
+- Resolver erro TP_CHECK que impedia criação de take profits
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ee5f0c2</div>
+                                        <div class="message">fix: corrige forma de captura e calculo de posições por bot</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">OvictorVieira/backbot</span>
                                     </div>
@@ -1501,258 +1639,6 @@
 - Add test endpoints for debugging position tracking
 - Fix totalTrades calculation to count complete trades (opening+closing)
 - Improve performance metrics calculation based on reconstructed positions</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 29 commits in
-                                        <span class="repo">OvictorVieira/backbot</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feat/ui-development</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#fe9c674</div>
-                                        <div class="message">feat: implementar seleção de tokens autorizados com ordenação por volume
-
-- Adicionar endpoint /api/tokens/available para buscar tokens da Backpack
-- Implementar ordenação por volume das últimas 24h (maior → menor)
-- Adicionar seção 'Tokens Autorizados' no modal de configuração
-- Implementar busca e seleção de tokens com interface intuitiva
-- Adicionar formatação inteligente de volume (M/K) no frontend
-- Corrigir campos da API da Backpack (baseSymbol, quoteSymbol, orderBookState)
-- Integrar authorizedTokens no sistema de configuração do bot
-- Atualizar AccountController para usar authorizedTokens do config
-- Reorganizar seções do modal (Tokens antes de Trading)
-- Adicionar exibição com sufixo -PERP apenas na interface</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#19754b8</div>
-                                        <div class="message">fix: adicionar import ConfigManagerSQLite no OrderController
-
-- Adicionar import correto do ConfigManagerSQLite no topo do arquivo
-- Corrigir método generateUniqueOrderId para ser async
-- Resolver erro 'Unexpected reserved word' no await
-- Garantir compatibilidade com sistema SQLite</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5c3b658</div>
-                                        <div class="message">fix: corrigir imports duplicados e endpoints async
-
-- Remover import duplicado do ConfigManagerSQLite
-- Corrigir endpoints para serem async onde necessário
-- Resolver erros de linter 'await expressions are only allowed within async functions'
-- Garantir compatibilidade com ConfigManagerSQLite em todos os endpoints</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9eb9434</div>
-                                        <div class="message">fix: migrar todos os endpoints para ConfigManagerSQLite
-
-- Adicionar métodos faltantes ao ConfigManagerSQLite
-- Corrigir todos os endpoints para usar SQLite em vez de JSON
-- Atualizar app-api.js, OrderController.js, ImportOrdersFromBackpack.js
-- Resolver erro 'Bot não pode ser iniciado (status: null)'
-- Garantir compatibilidade total com sistema SQLite</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#25bebbf</div>
-                                        <div class="message">fix: corrigir endpoints para usar ConfigManagerSQLite
-
-- Atualizar /api/bot/summary para usar ConfigManagerSQLite
-- Atualizar /api/bot/positions/show para usar ConfigManagerSQLite
-- Corrigir busca de configurações de bots no SQLite
-- Resolver problema das estatísticas não aparecendo nos cards</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c3c41ef</div>
-                                        <div class="message">feat: migrar persistência de JSON para SQLite
-
-- Criar ConfigManagerSQLite para usar banco de dados SQLite
-- Atualizar endpoints para usar ConfigManagerSQLite async
-- Manter compatibilidade com 3 tabelas: bot_configs, bot_orders, trailing_state
-- Migrar de arquivos JSON para SQLite para melhor performance e consistência
-- Inicializar ConfigManagerSQLite no servidor com DatabaseService</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9dd828c</div>
-                                        <div class="message">fix: corrigir timeframe do modo VOLUME para 15 minutos
-
-- Alterar timeframe de '30m' para '15m' no modo VOLUME
-- Manter configurações otimizadas para trading baseado em volume
-- Timeframe de 15 minutos é mais adequado para análise de volume</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7e478d0</div>
-                                        <div class="message">fix: corrigir problemas do modal de configuração
-
-- Corrigir valor inicial do 'Lucro Mínimo (%)' de 0.5 para 10
-- Resolver problema do modal resetando dados dos inputs
-- Melhorar useEffect do ConfigForm para só resetar quando necessário
-- Evitar reset desnecessário durante requisições recorrentes de status</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c37e1d1</div>
-                                        <div class="message">feat: remover funcionalidade de Operações da primeira versão
-
-- Comentar botão 'Operações' no DashboardPage
-- Comentar rota '/operations' no App.tsx
-- Manter código comentado para implementação futura
-- Simplificar interface para primeira versão do bot</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#803609e</div>
-                                        <div class="message">feat: personalizar dashboard-ui com branding do Backbot
-
-- Criar ícone SVG personalizado de bot inteligente
-- Atualizar título para 'Backbot - Bot Inteligente de Trading Multi-Strategy'
-- Atualizar nome do projeto no package.json
-- Ícone com animação de atividade e design moderno</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f3589e4</div>
-                                        <div class="message">fix: corrigir método de inicialização do DatabaseService
-
-- Usar dbService.init() em vez de dbService.initialize()
-- Método correto conforme implementação do DatabaseService</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9ea7526</div>
-                                        <div class="message">fix: corrigir testes após migração para multibots
-
-- Corrigir OrderController.test.js para usar config com apiKey/apiSecret
-- Corrigir AlphaFlowStrategy.integration.test.js para nova estrutura da momentum
-- Corrigir AlphaFlowStrategy.js para retornar false em vez de undefined
-- Melhorar validação de dados e logs de debug
-- Progresso: 129 testes passando (vs 35 antes) - 85% de melhoria</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2f05188</div>
-                                        <div class="message">fix: resolve test failures and improve validation logic
-
-- Fix AlphaFlowStrategy validation to handle nested VWAP structure
-- Fix getCapitalMultiplier to use environment variables as fallback
-- Fix Indicators.MacroMF tests to handle optional error property
-- Update test expectations to match actual behavior (GOLD vs BRONZE)
-- Remove debug logs and improve error handling
-- 14/41 AlphaFlowStrategy tests now passing
-- All MacroMF tests now passing</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#75dc01a</div>
-                                        <div class="message">feat: migrate from JSON to SQLite persistence and fix bot deletion
-
-- Add DatabaseService for SQLite operations with comprehensive CRUD
-- Add OrdersService to replace JSON-based order persistence
-- Update TrailingStop to use SQLite instead of JSON files
-- Fix bot deletion to properly remove order data from SQLite
-- Add comprehensive unit tests for both services
-- Update app initialization to use new database services
-- Remove deprecated JSON persistence files
-- All tests passing with 100% functionality coverage</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9526cd7</div>
-                                        <div class="message">refactor: complete migration from process.env to per-bot config system
-
-MIGRATION SUMMARY:
-- Remove ALL process.env usage across the entire codebase
-- Implement per-bot configuration system for complete isolation
-
-CORE CHANGES:
-1. TimeframeConfig: Require config parameter, remove process.env
-2. DefaultStopLoss: Pass config to shouldClosePosition, use config.enableTrailingStop
-3. ProMaxStopLoss: Pass config to shouldClosePosition, use config.enableTpValidation
-4. DefaultStrategy: Pass config to validateBTCTrend, use config.time
-5. AlphaFlowStrategy: Pass config to calculateOrders, use config.orderXWeightPct
-6. BotInstance: Remove setEnvironmentVariables, use this.config directly
-7. OrderController: Remove process.env usage, use config parameters
-8. AccountController: Ensure per-bot leverage configuration
-9. TrailingStop: Pass config to shouldClosePosition
-10. BaseStopLoss: Update signature to include config parameter
-11. StrategySelector: Remove process.env dependencies
-12. BacktestEngine: Pass config to strategy constructors
-
-TEST UPDATES:
-- Update DefaultStopLoss.test.js to use mockConfig
-- Update AlphaFlowStrategy.test.js to pass config parameter
-- Fix test configurations to use per-bot config instead of process.env
-
-BENEFITS:
-- Complete isolation of bot configurations
-- No environment variable conflicts in multi-bot setup
-- Consistent per-bot configuration system
-- Scalable architecture for multiple bots
-- Clean separation of concerns</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d6efb1e</div>
-                                        <div class="message">refactor: remove process.env usage from BotInstance.js - migrate to per-bot config
-
-- Remove setEnvironmentVariables() and restoreEnvironmentVariables() methods
-- Remove all process.env manipulation in testConnection(), runAnalysis(), startMonitoring()
-- Use this.config directly for all bot-specific configurations
-- Pass comprehensive instanceConfig to Decision.analyze() including:
-  * Basic configs: apiKey, apiSecret, strategy, time, capitalPercentage
-  * Stop loss configs: maxNegativePnlStopPct, enableTpValidation, enableTrailingStop
-  * Take profit configs: minProfitPercentage, partialProfitPercentage
-  * Alpha Flow configs: order1WeightPct, order2WeightPct, order3WeightPct
-  * Trailing stop configs: initialStopAtrMultiplier, partialTakeProfitAtrMultiplier, enableHybridStopStrategy
-  * PRO_MAX advanced configs: all strategy-specific parameters
-- Pass this.config to OrderController.monitorPendingEntryOrders()
-- Ensure complete isolation of bot configurations
-- Prepare for multi-bot scalability without environment conflicts</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d52d186</div>
-                                        <div class="message">feat: implement bot deletion with complete cleanup and responsive UI
-
-- Add delete button to bot cards with trash icon only
-- Create DeleteBotModal component with confirmation dialog
-- Implement complete bot cleanup: config, trailing state, orders, instances, rate limits
-- Remove orphaned trailing state cleanup API route (user-friendly approach)
-- Improve responsive layout for bot cards and dashboard
-- Add ConfigManager.removeBotConfigById method
-- Create ConfigManagerV2 example for new persistence architecture
-- Ensure trailing stop state is properly cleaned on bot deletion</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5d23525</div>
-                                        <div class="message">fix: corrige criação de TPs duplicados para posições LONG
-
-- Remove process.env e usa apenas config do bot
-- Corrige TrailingStop para não criar ordens duplicadas (apenas monitora)
-- Melhora validação de TPs existentes com logs detalhados
-- Adiciona validação específica para TPs parciais vs totais
-- Corrige hasTakeProfitOrder com logs detalhados para debug
-- Remove logs de debug do MFI conforme solicitado
-
-Resolve problema de 2 ordens de TP parcial sendo criadas para ETH (LONG)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dfa73a6</div>
-                                        <div class="message">feat(dashboard): add disclaimer about manually closed operations
-
-- Add blue-themed warning box explaining manual operation closure impact
-- Clarify that manually closed operations won't be tracked in bot statistics
-- Note that corretora continues to register volume/profit/loss normally
-- Recommend letting bot manage operations completely for accurate tracking</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ab74ddc</div>
-                                        <div class="message">feat: replace status badge with pulsing circle indicator
-
-- Replace text badges with simple circular indicators
-- Green pulsing circle when bot is running (animate-pulse)
-- Gray circle when bot is stopped or disabled
-- Cleaner visual indicator that takes less space
-- Maintains the same status logic but with minimal visual design</div>
                                     </div>
                                 </div>
                             </section>
@@ -1957,7 +1843,7 @@ Resolve problema de 2 ordens de TP parcial sendo criadas para ETH (LONG)</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Aug 2025, 05:18:48 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Aug 2025, 06:16:38 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
