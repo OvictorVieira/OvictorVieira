@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1652" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1587" class="">
     <defs>
         <style/>
     </defs>
@@ -184,13 +184,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    661 MB used
+                                    662 MB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    190k added, 133k removed
+                                    103k added, 61.2k removed
                                 </div>
                             </section>
                             <section>
@@ -322,13 +322,13 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 25 commits)</small>
+                    <small class="h-details">(computed from last 27 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
                         <li>Has approximately 49.3 characters per line of code written</li>
-                        <li>Mostly pushes code around 20:00</li>
+                        <li>Mostly pushes code around 19:00</li>
                         <li>Mostly active on Wednesday</li>
                     </ul>
                 </div>
@@ -1374,46 +1374,146 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 6 commits in
                                         <span class="repo">OvictorVieira/backbot</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b7b8fc4</div>
-                                        <div class="message">fix: database migration new column error</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">OvictorVieira/backbot</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2096bdd</div>
-                                        <div class="message">fix: database migration new column error</div>
+                                        <div class="sha">#42a28c7</div>
+                                        <div class="message">fix: reposicionar seção Tokens Ativos no BotCard
+
+- Mover Tokens Ativos para logo após Modo Execução
+- Melhorar organização das informações no card
+- Posicionar tokens acima do contador de execução
+- Criar fluxo mais lógico de informações
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#3587cdd</div>
-                                        <div class="message">fix: corrigir database schema e BotOrdersManager para novos usuários
+                                        <div class="sha">#404b2bd</div>
+                                        <div class="message">fix: corrigir responsividade do BotCard em telas pequenas
 
-- Adicionar coluna clientId na migração automática do DatabaseService
-- Corrigir erro "path undefined" adicionando constructor no BotOrdersManager
-- Implementar método loadOrdersFromJson() que estava vazio
-- Garantir fallback robusto para JSON quando SQLite não disponível
+- Definir largura mínima de 280px para o card
+- Adicionar flex-shrink-0 nos botões para evitar compressão
+- Remover texto "Sync" para economizar espaço em telas pequenas
+- Garantir que botões sempre fiquem dentro do card
 
-Resolve erros para novos usuários ao inicializar database pela primeira vez.
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#54c9715</div>
+                                        <div class="message">fix: otimizar exibição de tokens ativos no BotCard
+
+- Limitar exibição para máximo 4 tokens
+- Implementar truncamento inteligente removendo sufixos após underscore
+- Adicionar indicador "+X" quando há mais tokens
+- Melhorar usabilidade com nomes de tokens mais limpos
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6754674</div>
+                                        <div class="message">fix: ajustar BotCard conforme solicitação - layout original + tokens
+
+Ajustes solicitados pelo usuário para melhorar UX do dashboard:
+
+Layout de Botões:
+- Revertido para uma linha só (Pausar, Editar, Sync, Delete)
+- Botão Delete agora só ícone da lixeira (sem texto)
+- Layout responsivo mantido para telas pequenas
+
+Funcionalidades Ativas:
+- Revertido para 4 opções originais em grid 2x2:
+  * Trailing Stop
+  * Post Only Limit Orders
+  * Stop Loss Híbrido
+  * Market Orders Fallback
+- Removidas opções extras (Monitor Ordens)
+
+Nova Seção - Tokens Ativos:
+- Adicionada seção com tags coloridas de tokens
+- Layout flex-wrap para múltiplos tokens
+- Cores temáticas (azul, verde, roxo)
+- Exemplos: BTC, ETH, AAVE
+- TODO: Integrar com API para tokens reais
+
+Resultado: Interface otimizada conforme feedback do usuário,
+mantendo responsividade e adicionando visualização de tokens.
+
+Versão atualizada para 1.5.55
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#918defe</div>
+                                        <div class="message">refactor: focar BotCard em configurações ao invés de performance
+
+Removida seção de estatísticas de trading e expandida exibição de
+TODAS as configurações do bot para melhor visibilidade do usuário:
+
+Removido:
+- Seção "Estatísticas de Trading" completa
+- TradingStatsSkeleton component
+- Funções de formatação e cores de performance
+- Interface TradingStats e estados relacionados
+- Requisições axios para buscar estatísticas
+- Imports e parâmetros não utilizados
+
+Adicionado:
+- Max Slippage nas configurações básicas
+- Seção ATR condicional (Stop Loss Híbrido)
+- Seção Trailing Stop condicional
+- Funcionalidades expandidas com status Ativo/Inativo:
+  * Trailing Stop
+  * Stop Loss Híbrido (ATR)
+  * Post Only Limit Orders
+  * Market Orders Fallback
+  * Monitor Ordens Órfãs
+  * Monitor Ordens Pendentes
+- Layout organizado com divisores e seções coloridas
+- Status de próxima atualização simplificado
+
+Resultado: Interface mais limpa, focada e informativa com TODAS
+as configurações visíveis para o usuário.
+
+Versão atualizada para 1.5.54
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ae2219e</div>
+                                        <div class="message">fix: corrigir layout responsivo do dashboard em telas pequenas
+
+Problema: Botão de delete ficava cortado/fora do card em telas pequenas
+devido aos 4 botões na mesma linha horizontal sem quebra responsiva.
+
+Solução implementada:
+- Layout reorganizado em 2 linhas: botão principal separado
+- Botões secundários (Editar, Sync, Delete) distribuídos igualmente
+- Cada botão com flex-1 para ocupar espaço proporcional
+- Texto sempre visível (removido hidden sm:inline)
+- Prevenção de overflow com min-w-0 e truncate
+- Ícones fixos com flex-shrink-0
+
+Resultado:
+✅ Todos os botões sempre visíveis e acessíveis
+✅ Layout otimizado para dispositivos móveis
+✅ Melhor UX em telas pequenas
+✅ Texto legível em todos os botões
+
+Versão atualizada para 1.5.53
 
 🤖 Generated with [Claude Code](https://claude.ai/code)
 
@@ -1426,18 +1526,14 @@ Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Deleted
+                      branch
+                                        <span class="code">feat/implements-strategy-level</span>
+                                        in
                                         <span class="repo">OvictorVieira/backbot</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e128f4b</div>
-                                        <div class="message">Delete UPDATE_INSTRUCTIONS.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -1446,26 +1542,14 @@ Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Deleted
+                      branch
+                                        <span class="code">fix/trailing-stop-improovements</span>
+                                        in
                                         <span class="repo">OvictorVieira/backbot</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0e92ba2</div>
-                                        <div class="message">fix: resolver erro do dashboard Windows com caracteres especiais em paths
-
-Adicionada configuração específica no vite.config.ts para resolver problema onde
-usuários Windows com paths contendo caracteres especiais ($, #, espaços)
-enfrentavam erro "No loader is configured for .html files".
-
-🤖 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -1474,18 +1558,30 @@ Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">OvictorVieira/backbot.pro</span>
+                                        Deleted
+                      branch
+                                        <span class="code">feat/multi-bot-parallel</span>
+                                        in
+                                        <span class="repo">OvictorVieira/backbot</span>
                                     </div>
                                 </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9529b79</div>
-                                        <div class="message">feat: first version</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">feat/implements-trailing-stop</span>
+                                        in
+                                        <span class="repo">OvictorVieira/backbot</span>
                                     </div>
                                 </div>
                             </section>
@@ -1690,7 +1786,7 @@ Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Aug 2025, 22:01:08 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Aug 2025, 00:10:12 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
