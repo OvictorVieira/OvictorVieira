@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1854" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1725" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .text{font-size:12px;color:#666}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26;border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.tag{color:#48428a}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    427k added, 219k removed
+                                    262k added, 119k removed
                                 </div>
                             </section>
                             <section>
@@ -322,7 +322,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 10 commits)</small>
+                    <small class="h-details">(computed from last 11 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -1398,6 +1398,164 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      tag
+                                        <span class="code">v1.8.17</span>
+                                        in
+                                        <span class="repo">OvictorVieira/backbot</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 6 commits in
+                                        <span class="repo">OvictorVieira/backbot</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#094a2bb</div>
+                                        <div class="message">UI ENHANCEMENT v1.8.17: Prominent achievements filter with golden styling
+
+🎨 Major visual improvements to achievements filter:
+- Moved filter next to "Limpar Seleção" button for maximum visibility
+- Eye-catching golden gradient background (yellow-50 to amber-50)
+- Professional "🏆 Achievements" badge with refined typography
+- Enhanced hover states and proper focus indicators
+
+🚀 User experience enhancements:
+- Strategic placement at top of tokens section for prominence
+- Visual hierarchy ensures filter stands out from other elements
+- Consistent achievement branding with trophy emoji theme
+- Improved accessibility with proper clickable areas
+
+💎 Design system integration:
+- Full dark mode support with proper contrast ratios
+- Responsive design maintaining layout integrity
+- Color harmony with existing achievement badges
+- Typography consistency across the interface
+
+🎯 Now users can't miss the achievements filter - much more discoverable!
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1dbbc7c</div>
+                                        <div class="message">ACHIEVEMENTS FILTER v1.8.16: Enhanced token selection with achievement rewards
+
+🏆 Added comprehensive achievements filter system:
+- New "Apenas Tokens de Achievements" checkbox in bot creation/edit modal
+- Visual 🏆 Achievement badges for tokens that earn more Backpack points
+- Smart tooltip with user-friendly explanation and direct link to achievements page
+- Frontend-only filtering based on tokens.json data for optimal performance
+
+🔧 API Enhancement:
+- Added isAchievement flag to /api/tokens/available endpoint
+- Automatic detection based on src/persistence/tokens.json
+- Maintains all existing functionality while adding achievement awareness
+
+💻 UX Improvements:
+- Clear visual indicators for high-value tokens
+- Seamless integration with existing search/selection logic
+- TypeScript support with proper type definitions
+- Direct link to https://backpack.exchange/achievements
+
+🎯 Helps users maximize point farming by easily identifying reward tokens
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ad7c8c5</div>
+                                        <div class="message">DASHBOARD UI FIX v1.8.15: Enhanced Stop Loss validation precision
+
+🎛️ Fixed Stop Loss field validation in bot creation/edit form:
+- Changed minimum from -1% to -0.5% for precise stop loss control
+- Now accepts decimal values like -0.5, -0.75, -0.8, etc.
+- Updated validation message: "Stop Loss deve ser menor que -0.5%"
+- Enhanced input placeholder: "Ex: -0.5, -1, -10"
+
+💻 Improved user experience with more flexible stop loss configuration
+🔧 Maintains proper validation while supporting precise trading requirements
+📊 Users can now set tighter stop losses for better risk management
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f3e323b</div>
+                                        <div class="message">BOT EXECUTION FIX v1.8.14: Resolve ON_CANDLE_CLOSE status issue
+
+🔧 Fixed critical bot status management issue:
+- Bots no longer stuck in "starting" status for ON_CANDLE_CLOSE mode
+- Immediate status transition to "running" after successful scheduling
+- Fixed volume mode (dual bots) execution properly working
+- Separated bot functional state from execution timing
+
+⚡ ON_CANDLE_CLOSE bots now correctly show as "running" while waiting for next candle
+🚀 Resolves "Bot 2 iniciado com sucesso" but status API showing "starting"
+📊 Dashboard and API status now consistent with bot operational state
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6798cfd</div>
+                                        <div class="message">ENHANCED STOP LOSS FIX v1.8.13: Intelligent price finding logic
+
+🎯 Improved OrderBook Stop Loss price matching for ZORA_USDC_PERP:
+- Smart differentiation between Stop Loss (-%) vs Take Profit (+%)
+- Removed overly restrictive price constraints for Stop Loss orders
+- Prioritizes target proximity over spread buffer requirements
+- Enhanced debug logs with Stop Loss/Take Profit type detection
+
+🔧 Stop Loss now accepts any valid orderbook price for better matching
+⚡ Take Profit maintains conservative buffer logic to prevent taker execution
+💰 Resolves "OrderBook falhou ao encontrar preço de Stop Loss" errors
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f8a3f92</div>
+                                        <div class="message">CRITICAL ORDERBOOK FIX v1.8.12: Iterator validation prevents crashes
+
+🛡️ Fixed "Found non-callable @@iterator" error in OrderBookAnalyzer:
+- Added comprehensive validation for book.bids/asks arrays
+- Individual entry validation before destructuring [price, quantity]
+- Graceful handling of malformed orderbook data
+- Enhanced error logging for troubleshooting
+
+🎯 Resolves AERO_USDC_PERP iterator crashes and Stop Loss/Take Profit failures
+⚡ Maintains financial safety with strict no-fallback policy
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -1573,251 +1731,6 @@ After user reported FeatureToggleService.js missing, implemented:
 
 This system will automatically detect and preserve ANY file that exists
 locally but not on GitHub, making updates completely safe for users.
-
-🤖 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">OvictorVieira/backbot</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2dbb608</div>
-                                        <div class="message">CRITICAL HOTFIX v1.8.7: Fix auto-update script breaking HFT functionality
-
-🚨 CRITICAL ISSUE: Auto-update script was removing HFTController.js during updates
-🛡️ FIX: Enhanced updateSrcSelectively() with file preservation system
-🔧 SOLUTION: Added srcPreserveItems array to protect local customizations
-📦 URGENCY: Immediate release to protect user installations
-
-Changes:
-- Fixed update.js to preserve Controllers/HFTController.js during updates
-- Added intelligent backup/restore system for local files
-- Enhanced updateSrcSelectively() function with preservation logic
-- Updated CHANGELOG.md with critical hotfix details
-- Version bump to 1.8.7 for urgent deployment
-
-🤖 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 12 commits in
-                                        <span class="repo">OvictorVieira/backbot</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#24055b1</div>
-                                        <div class="message">Merge pull request #12 from OvictorVieira/feature/hft-mode
-
-Feature/hft mode</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#62c096a</div>
-                                        <div class="message">release: version 1.8.6 - critical iterator &amp; duplicate stop-loss fixes
-
-- Release new version after critical bug fixes
-- Update CHANGELOG.md with comprehensive fix details
-- Version bump from 1.8.4 to 1.8.6
-
-🤖 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bf6a4ee</div>
-                                        <div class="message">fix: resolve iterator errors and prevent duplicate stop-loss creation
-
-- Fix "Found non-callable @@iterator" error in CachedOrdersService and PositionUtils
-- Add critical validation to ensure arrays are iterable before loops
-- Implement global lock system to prevent multiple stop-loss order creation
-- Optimize API calls by fetching all prices in single request instead of per-symbol
-- Remove problematic fallback logic that used first symbol's price for all symbols
-- Add proper error handling for missing price data in Decision.js
-
-🤖 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9d4526d</div>
-                                        <div class="message">style: apply prettier formatting
-
-🤖 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6affd9a</div>
-                                        <div class="message">fix: enhance OrderBook integration and safety order timing
-
-- Fix OrderBook price calculation for Stop Loss and Take Profit based on user-defined percentage targets
-- Implement percentage-based price selection from order book instead of closest price matching
-- Add 10-second delay for safety order creation to allow API position processing
-- Fix bot status preservation during configuration updates to prevent automatic status changes
-- Improve Take Profit logic for SHORT positions using correct BUY side selection
-- Add comprehensive logging and debug information for order book price selection
-- Ensure all safety orders (SL/TP) are created with reduceOnly flag for security
-- Optimize order execution timeout from 12s to 50s for better fill rates
-- Convert debug logs from ERROR to DEBUG level to reduce log pollution
-
-🤖 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#85946a9</div>
-                                        <div class="message">feat: implement feature toggle system for HFT mode control
-
-- Add FeatureToggleService with database-driven toggle management
-- Create feature_toggles table in DatabaseService
-- Add HFT_MODE toggle (defaults to false on startup)
-- Integrate toggle check in HFTController to control HFT execution
-- Add dashboard filtering to hide HFT bots when toggle disabled
-- Conditional bot creation flow based on HFT_MODE status
-- Add feature toggle API endpoints for management
-- Support multi-token HFT processing in HFTController
-- Maintain existing quantity/price formatting fixes
-
-🤖 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f692142</div>
-                                        <div class="message">fix: resolve PUMP_USDC quantity validation and formatting issues
-
-- Fixed minimum quantity validation in HFTController.calculateOptimalAmountFromConfig
-- Removed redundant quantity formatting to prevent 'Quantity decimal too long' errors
-- HFTController now returns raw number, HFTStrategy handles proper formatting
-- BackpackExchange no longer force-applies .toFixed(8) to quantities
-- MarketFormatter.formatQuantity() now properly applied with correct decimal_quantity
-
-🤖 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f593f38</div>
-                                        <div class="message">fix: resolve HFT race conditions and optimize logging
-
-- Implement comprehensive database-based trading locks to prevent race conditions between position closure and grid recreation
-- Add closure order detection via WebSocket events with proper metadata tracking
-- Fix timing issues in closePosition method by removing blocking cancelAllOpenOrders operation
-- Add immediate lock updates to prevent WebSocket events from processing before lock metadata is set
-- Enhance BackpackExchange with proper market order handling without price parameter
-- Move verbose debug logs to debug level for cleaner production monitoring
-- Ensure grid recreation only occurs after position closure is fully confirmed via FILLED events
-- Remove deprecated tasks-hft.md file
-
-Race condition resolution ensures orders are never created while positions are being closed,
-eliminating conflicts with TP/SL orders and improving system reliability.
-
-🤖 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5073e26</div>
-                                        <div class="message">feat: implement comprehensive HFT bot system with Stop Loss/Take Profit
-
-- **Exchange abstraction layer** with BackpackExchange implementation
-- **Sequential order placement** to fix duplicate order IDs issue
-- **Stop Loss &amp; Take Profit protection** for all HFT orders using orderbook data
-- **Trading locks semaphore system** to prevent race conditions
-- **Race condition handling** with in-memory caching and retry logic
-- **Automatic lock cleanup** on bot stop and application shutdown
-
-- `HFTStrategy.js`: Complete rewrite with SL/TP, position monitoring, and sequential order placement
-- `DatabaseService.js`: Added trading_locks table and management methods
-- `BackpackExchange.js`: New exchange abstraction layer with proper error handling
-- `HFTController.js`: Enhanced with trading lock cleanup on shutdown
-- `MarketFormatter.js`: New utility for proper price/quantity formatting
-
-- **Database schema**: Added trading_locks table for semaphore system
-- **WebSocket integration**: Real-time orderbook updates and trade monitoring
-- **Order recovery system**: Recovers existing orders on bot restart
-- **Price formatting**: Uses market info instead of hardcoded decimals
-- **Concurrent safety**: Prevents grid recreation during active positions
-
-- Fixed duplicate order ID issue with sequential placement
-- Fixed race conditions between order placement and WebSocket events
-- Fixed orphaned trading locks blocking new order creation
-- Fixed price calculation using real orderbook data instead of estimates
-
-🤖 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#05e0332</div>
-                                        <div class="message">fix: align buttons symmetrically at bottom of bot selection cards
-
-- Add flexbox layout to cards and content areas
-- Use flex-1 to expand content area and push buttons to bottom
-- Ensures both bot type cards have buttons at same height
-- Improves visual consistency and professional appearance
-
-🤖 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#90f2c9b</div>
-                                        <div class="message">feat: implement user-friendly HFT bot creation with type selection
-
-- Add BotTypeSelection modal with clear explanations for HFT vs Default bots
-- Create comprehensive HFTConfigForm with specialized fields for airdrop volume generation
-- Integrate bot type selection into DashboardPage workflow
-- Add missing Radix UI components (Dialog, Select, Checkbox, Textarea, Alert)
-- Fix TypeScript configuration with path mapping and relaxed validation
-- Fix HFTStrategy import to use named export from BaseStrategy
-- Add orange-themed UI for HFT mode to distinguish from traditional bots
-
-User Experience:
-- Click 'Criar Bot' shows type selection modal
-- Default Bot opens existing ConfigForm
-- HFT Bot opens specialized form with airdrop-focused configuration
-- Clear explanations help users understand each bot type
-
-🤖 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9503236</div>
-                                        <div class="message">feat: implement comprehensive HFT mode system
-
-- Add HFTStrategy with grid trading for airdrop volume generation
-- Implement OrderBookCache with WebSocket real-time updates
-- Create HFTController for bot lifecycle management
-- Integrate HFT with StrategyFactory and API endpoints
-- Add HFT mode selection and config fields to frontend
-- Add safety controls and graceful shutdown integration
 
 🤖 Generated with [Claude Code](https://claude.ai/code)
 
@@ -2011,7 +1924,7 @@ Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Sept 2025, 08:11:21 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Sept 2025, 09:25:30 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
