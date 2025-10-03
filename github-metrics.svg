@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1722" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1738" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.symbol{color:#b44418}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    280k added, 137k removed
+                                    1.42m added, 214k removed
                                 </div>
                             </section>
                             <section>
@@ -322,7 +322,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 15 commits)</small>
+                    <small class="h-details">(computed from last 18 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -1369,6 +1369,187 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">OvictorVieira/backbot</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feature/exchange-factory-migration</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#660f124</div>
+                                        <div class="message">🚀 RELEASE: v1.9.0 - UnifiedOrderModel &amp; Heikin Ashi Filter
+
+MAJOR RELEASE: Nova arquitetura de ordens + filtro de reversão Heikin Ashi
+
+🎯 FEATURES PRINCIPAIS:
+
+1. UnifiedOrderModel Implementado
+   - Abstração completa de ordens multi-exchange
+   - Factory methods: createOpenLong/Short, createCloseLong/Short, createStopLoss/TakeProfit
+   - Type safety e validação centralizada
+   - Stop Loss e Take Profit integrados
+
+2. Heikin Ashi Reversal Filter
+   - Validação de reversão de 3 velas (LONG: [DOWN]→[UP]→[UP], SHORT: [UP]→[DOWN]→[DOWN])
+   - Previne entradas "meio de movimento"
+   - Logs detalhados com padrão de velas
+   - Habilitado via enableHeikinAshi: true
+
+3. BackpackOrderFormatter Estendido
+   - Método formatUnifiedOrder() para tradução automática
+   - Conversão de sides: LONG→Bid, SHORT→Ask, CLOSE_LONG→Ask, CLOSE_SHORT→Bid
+   - Suporte a SL/TP integrados
+
+4. Plano de Migração Completo
+   - UNIFIED_ORDER_MODEL_MIGRATION.md criado
+   - 5 fases documentadas (Infraestrutura, Helpers, Migração, Validação, Limpeza)
+   - Checklist detalhado por arquivo e método
+   - Cronograma de 5 semanas
+
+🐛 FIXES:
+- Corrigidos parâmetros de analyzeSignals() para análise do BTC
+- Heikin Ashi só valida quando explicitamente habilitado
+- Log level ajustado de debug para info
+- Symbol fallback adicionado
+
+📋 DOCUMENTAÇÃO:
+- UNIFIED_ORDER_MODEL_MIGRATION.md: guia completo de migração
+- CHANGELOG.md atualizado com detalhes completos
+- Exemplos de uso e testes documentados
+
+🚀 PRÓXIMOS PASSOS:
+- Fase 2: Criar helpers (executeUnifiedOrder)
+- Fase 3: Migração incremental de payloads
+- Fase 4-5: Validação e limpeza
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">OvictorVieira/backbot</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feature/exchange-factory-migration</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#48e986b</div>
+                                        <div class="message">📋 DOCS: Criar plano de migração para UnifiedOrderModel
+
+Criado documento completo de migração seguindo padrão do EXCHANGE_FACTORY_MIGRATION.md
+
+CONTEÚDO:
+- 📊 Status da migração em 5 fases
+- 📝 Lista completa de arquivos identificados (OrderController, OrdersService, app-api.js)
+- 🔧 Padrão de migração ANTES/DEPOIS com exemplos
+- 📋 Checklist detalhado por arquivo e método
+- 🧪 Testes unitários e de integração obrigatórios
+- 🚨 Pontos de atenção críticos (side conversion, reduceOnly, etc)
+- 📈 Métricas de sucesso
+- 🎯 Cronograma sugerido (5 semanas)
+
+PRÓXIMOS PASSOS:
+1. Criar helper executeUnifiedOrder()
+2. Migrar OrderController.forceClose() (primeiro teste)
+3. Continuar migração incremental seguindo checklist
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">OvictorVieira/backbot</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feature/exchange-factory-migration</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0879110</div>
+                                        <div class="message">📋 DOCS: Criar plano de migração para UnifiedOrderModel
+
+Criado documento completo de migração seguindo padrão do EXCHANGE_FACTORY_MIGRATION.md
+
+CONTEÚDO:
+- 📊 Status da migração em 5 fases
+- 📝 Lista completa de arquivos identificados (OrderController, OrdersService, app-api.js)
+- 🔧 Padrão de migração ANTES/DEPOIS com exemplos
+- 📋 Checklist detalhado por arquivo e método
+- 🧪 Testes unitários e de integração obrigatórios
+- 🚨 Pontos de atenção críticos (side conversion, reduceOnly, etc)
+- 📈 Métricas de sucesso
+- 🎯 Cronograma sugerido (5 semanas)
+
+PRÓXIMOS PASSOS:
+1. Criar helper executeUnifiedOrder()
+2. Migrar OrderController.forceClose() (primeiro teste)
+3. Continuar migração incremental seguindo checklist
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bcffe79</div>
+                                        <div class="message">✨ FEATURE: Criar UnifiedOrderModel e tradutor para Backpack
+
+PROBLEMA:
+- Payloads específicos da Backpack estavam sendo criados diretamente no código de negócio
+- Violação do padrão de abstração multi-exchange
+- Dificulta manutenção e adição de novas exchanges
+
+SOLUÇÃO:
+1. Criado UnifiedOrderModel (src/Models/UnifiedOrderModel.js)
+   - Modelo unificado que abstrai especificidades das exchanges
+   - Propriedades: symbol, type, side, quantity, price, triggerPrice, etc
+   - Factory methods: createOpenLong/Short, createCloseLong/Short, createStopLoss/TakeProfit
+   - Validação integrada com isValid()
+
+2. Extendido BackpackOrderFormatter com método formatUnifiedOrder()
+   - Aceita UnifiedOrderModel como input
+   - Traduz para formato específico da Backpack (Bid/Ask, Limit/Market)
+   - Suporta Stop Loss e Take Profit integrados
+   - Converte sides unificados: LONG/SHORT/CLOSE_LONG/CLOSE_SHORT → Bid/Ask
+   - Converte types unificados: MARKET/LIMIT/STOP_LOSS/TAKE_PROFIT → Market/Limit
+
+PRÓXIMOS PASSOS:
+- Refatorar OrderController para usar UnifiedOrderModel
+- Remover criação direta de payloads da Backpack
+- Testar e validar mudanças
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 6 commits in
                                         <span class="repo">OvictorVieira/backbot</span>
                                     </div>
@@ -1488,269 +1669,6 @@ Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">OvictorVieira/backbot</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feature/exchange-factory-migration</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e278ba6</div>
-                                        <div class="message">🔧 FIX: Correções em validações de SL/TP e proteção contra erros de .toFixed()
-
-- PositionMonitorService: Adicionado stack trace para debugging + validação completa de valores antes de .toFixed()
-- TrailingStop: Protegido todos os .toFixed() em logs de threshold (WS_THRESHOLD, SL_TRIGGER, TP_TRIGGER)
-- PositionUtils: Logs de estrutura de ordens alterados para debug
-- Utils: Atualizado validateLeverageForSymbol com 3 categorias (50x, 10x, 5x)
-- Decision: Corrigido apiSecret no cache de posições
-- Melhorias gerais de validação e logging
-
-🤖 Generated with [Claude Code](https://claude.com/claude-code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">OvictorVieira/backbot</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feature/exchange-factory-migration</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7af2d4b</div>
-                                        <div class="message">🔧 FIX: Correções em validações de SL/TP e proteção contra erros de .toFixed()
-
-- PositionMonitorService: Adicionado stack trace para debugging + validação completa de valores antes de .toFixed()
-- TrailingStop: Protegido todos os .toFixed() em logs de threshold (WS_THRESHOLD, SL_TRIGGER, TP_TRIGGER)
-- PositionUtils: Logs de estrutura de ordens alterados para debug
-- Utils: Atualizado validateLeverageForSymbol com 3 categorias (50x, 10x, 5x)
-- Decision: Corrigido apiSecret no cache de posições
-- Melhorias gerais de validação e logging
-
-🤖 Generated with [Claude Code](https://claude.com/claude-code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ce3c792</div>
-                                        <div class="message">✨ FEATURE: Fechamento automático de posições via WebSocket quando SL/TP atingido
-
-PROBLEMA IDENTIFICADO:
-• WebSocket monitora preços em tempo real mas NÃO fecha posições automaticamente
-• TrailingStop.js apenas move trailing stop, não verifica thresholds de SL/TP
-• Posições podem passar do Stop Loss (maxNegativePnlStopPct) sem fechar
-• Posições podem passar do Take Profit (minProfitPercentage) sem fechar
-• Usuário reportou: "estou vendo um token q o preco passou pelo stop loss ou take profit e nao fechou a operação"
-
-SOLUÇÃO IMPLEMENTADA:
-
-1️⃣ NOVO MÉTODO: checkPositionThresholds()
-   • Verifica STOP LOSS via maxNegativePnlStopPct
-   • Verifica TAKE PROFIT via minProfitPercentage
-   • Calcula PnL líquido (após taxas) para TP
-   • Retorna { shouldClose, reason, pnlPct, pnl }
-
-2️⃣ CALLBACK WEBSOCKET MELHORADO: subscribePositionReactive()
-   ANTES:
-   • Recebia preço atualizado via WebSocket
-   • Apenas atualizava trailing stop
-
-   AGORA:
-   • Recebia preço atualizado via WebSocket
-   • ✅ Verifica thresholds SL/TP ANTES de atualizar trailing
-   • ✅ Fecha posição IMEDIATAMENTE se threshold atingido
-   • ✅ Envia ordem a MERCADO (forceClose)
-   • ✅ Unsubscribe do WebSocket após fechamento
-   • Só atualiza trailing se NÃO fechou
-
-3️⃣ FLUXO DE FECHAMENTO AUTOMÁTICO:
-
-   WebSocket recebe preço
-   ↓
-   checkPositionThresholds(position, Account, config)
-   ↓
-   Se PnL &lt;= maxNegativePnlStopPct → FECHA (STOP LOSS)
-   Se PnL &gt;= minProfitPercentage → FECHA (TAKE PROFIT)
-   ↓
-   protectedForceClose(position, Account, config)
-   ↓
-   unsubscribePositionReactive(symbol)
-
-VERIFICAÇÕES IMPLEMENTADAS:
-
-✅ STOP LOSS:
-   • pnlPct &lt;= maxNegativePnlStopPct (-10% padrão)
-   • Log: 🚨 [WS_THRESHOLD] STOP LOSS atingido via WebSocket
-
-✅ TAKE PROFIT:
-   • netProfitPct &gt;= minProfitPercentage (0.5% padrão)
-   • Considera taxas (maker + taker)
-   • Calcula PnL líquido após taxas
-   • Log: 💰 [WS_THRESHOLD] TAKE PROFIT atingido via WebSocket
-
-LOGS ADICIONADOS:
-
-• 🔥 [WS_AUTO_CLOSE] Fechamento automático acionado
-• ✅ [WS_AUTO_CLOSE] Posição fechada com sucesso
-• ⚠️ [WS_AUTO_CLOSE] Falha ao fechar posição
-• 🚨 [WS_THRESHOLD] STOP LOSS atingido
-• 💰 [WS_THRESHOLD] TAKE PROFIT atingido
-• ❌ [WS_THRESHOLD] Erro ao verificar thresholds
-
-BENEFÍCIOS:
-
-✅ Fechamento IMEDIATO quando preço cruza SL/TP
-✅ Não depende de polling/sync periódico
-✅ Reativo - responde a cada update de preço
-✅ Evita perdas além do configurado
-✅ Garante lucros quando meta atingida
-✅ Usa mesma lógica de shouldCloseForConfiguredProfit
-✅ Protege contra concorrência (protectedForceClose)
-
-ARQUIVOS MODIFICADOS:
-• src/TrailingStop/TrailingStop.js
-  - subscribePositionReactive(): Adicionado verificação de thresholds
-  - checkPositionThresholds(): Novo método para validar SL/TP
-  - Logs detalhados para debug
-
-EXEMPLO DE USO:
-```javascript
-// WebSocket detecta preço = $100
-// Posição entry = $110 (LONG)
-// PnL = -9.09%
-// maxNegativePnlStopPct = -10%
-
-// ✅ PnL (-9.09%) &gt; maxNegativePnlStopPct (-10%) → Continua monitorando
-
-// Preço cai para $99
-// PnL = -10.91%
-// ✅ PnL (-10.91%) &lt;= maxNegativePnlStopPct (-10%) → FECHA IMEDIATAMENTE
-```
-
-COMPATIBILIDADE:
-✅ Mantém funcionamento do trailing stop existente
-✅ Só fecha se threshold atingido
-✅ Não interfere com lógica de trailing stop
-✅ Usa mesmos cálculos de PnL existentes
-
-🚀 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8739781</div>
-                                        <div class="message">🐛 FIX: Corrigir bug no script de update + adicionar flag --force
-
-PROBLEMA IDENTIFICADO:
-• Script estava apagando TODOS os arquivos da pasta src/
-• src/persistence/ (banco de dados) estava sendo removido incorretamente
-• restoreUserData() sobrescrevia novo código do GitHub com backup antigo
-• Não havia forma de forçar atualização ignorando verificação de 24h
-
-CORREÇÕES APLICADAS:
-
-1️⃣ CORREÇÃO DO FLUXO DE PRESERVAÇÃO:
-
-   ANTES (ERRADO):
-   • backupUserData() fazia backup de src/persistence/
-   • replaceFiles() removia src/ inteiro (incluindo persistence!)
-   • updateSrcDirectory() tentava restaurar mas já estava deletado
-   • restoreUserData() restaurava TUDO do backup (sobrescrevia código novo!)
-
-   AGORA (CORRETO):
-   • preservePaths inclui 'src' para não ser deletado em replaceFiles()
-   • updateSrcDirectory() faz backup temp de src/persistence/
-   • Remove src/ inteiro
-   • Copia novo src/ do GitHub
-   • Restaura APENAS src/persistence/ (dados do usuário)
-   • restoreUserData() PULA src/ (já foi tratado!)
-
-2️⃣ LIMPEZA DE ITENS INEXISTENTES:
-   • Removido 'persistence/' de PRESERVE_ITEMS (não existe na raiz)
-   • Removido 'persistence' de preservePaths
-   • Removido método updatePersistenceDirectory() (desnecessário)
-
-3️⃣ ADICIONADO FLAG --FORCE:
-   • Suporte a --force ou -f no comando
-   • Ignora verificação de atualização recente (24h)
-   • Novo script: npm run update:force
-   • Mensagens informativas sobre como usar
-
-FLUXO CORRETO FINAL:
-
-1. backupUserData()
-   ✅ Backup de: .env, src/persistence/, node_modules/, .git/
-
-2. replaceFiles()
-   ✅ Preserva: src/, node_modules/, backup_temp/, temp_update/
-   ✅ Remove: outros arquivos antigos
-
-3. updateSrcDirectory()
-   ✅ Backup temp: src/persistence/ → backup_temp/temp_persistence/
-   ✅ Remove: src/ inteiro
-   ✅ Copia: novo src/ do GitHub
-   ✅ Restaura: src/persistence/ (dados do usuário)
-
-4. restoreUserData()
-   ✅ Restaura: .env, node_modules/, .git/
-   ⏭️ Pula: src/ (já tratado!)
-   ⏭️ Pula: temp_persistence/ (temporário!)
-
-NOVOS COMANDOS:
-
-npm run update
-
-npm run update -- --force
-npm run update -- -f
-npm run update:force  # Script dedicado
-
-RESULTADO:
-✅ src/persistence/ preservado (banco de dados)
-✅ Todo código do GitHub atualizado
-✅ .env preservado
-✅ node_modules/ preservado
-✅ .git/ preservado
-✅ Opção de forçar atualização quando necessário
-
-🚀 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">feature/exchange-factory-migration</span>
-                                        in
-                                        <span class="repo">OvictorVieira/backbot</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1832,7 +1750,7 @@ Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~6 coding hours recorded
+                            ~9 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1874,13 +1792,13 @@ Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">backbot</span>
-                                <div class="bar" style="width: 75.816%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">95%</span>
+                                <div class="bar" style="width: 77%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">96%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">splitter</span>
-                                <div class="bar" style="width: 4.184%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">5%</span>
+                                <div class="bar" style="width: 3%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">4%</span>
                             </div>
                         </div>
                     </section>
@@ -1889,28 +1807,28 @@ Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 61.432%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">77%</span>
+                                <div class="bar" style="width: 62.184%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">78%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">SQL</span>
-                                <div class="bar" style="width: 7.336%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">9%</span>
+                                <div class="bar" style="width: 9.632%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">12%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Markdown</span>
-                                <div class="bar" style="width: 7.064%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">9%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 2.032%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">3%</span>
+                                <div class="bar" style="width: 6.303999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">8%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">.env file</span>
-                                <div class="bar" style="width: 1.2240000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">2%</span>
+                                <div class="bar" style="width: 0.8079999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">1%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">GitIgnore file</span>
+                                <div class="bar" style="width: 0.7679999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">1%</span>
                             </div>
                         </div>
                     </section>
@@ -1936,7 +1854,7 @@ Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Oct 2025, 00:23:22 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Oct 2025, 01:14:50 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
