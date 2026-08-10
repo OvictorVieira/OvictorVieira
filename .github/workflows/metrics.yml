@@ -23,7 +23,8 @@ jobs:
           template: classic
           base: header, activity, community, repositories
           config_timezone: America/Sao_Paulo
-          repositories_affiliations: owner, collaborator, organization_member
+          repositories_affiliations: owner
+          repositories_batch: 20
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_lines: yes
@@ -39,7 +40,8 @@ jobs:
           user: OvictorVieira
           base: ""
           config_timezone: America/Sao_Paulo
-          repositories_affiliations: owner, collaborator, organization_member
+          repositories_affiliations: owner
+          repositories_batch: 20
           plugin_languages: yes
           plugin_languages_ignored: >-
             html, css, scss, dockerfile, makefile, shell, hcl, batchfile,
